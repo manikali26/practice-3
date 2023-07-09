@@ -1,0 +1,205 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+
+.banner {
+    background-image: url(./images/banner3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px;
+    display: flex;
+    justify-content: right;
+    text-align: right;
+
+}
+
+
+.banner_Greetings {
+    width: 39%;
+
+}
+
+.banner_Title {
+    font-size: 50px;
+    color: white;
+}
+
+
+.banner_Info {
+    color: rgb(172, 166, 166);
+
+}
+
+.banner_Button {
+
+    border: none;
+    padding: 15px 25px;
+    border-radius: 5px;
+    font-family: arial;
+    color: #005FAC;
+    font-weight: bold;
+
+}
+/* failure part styles */
+
+.failure_part {
+
+    width: 1140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 60px auto;
+    padding: 0px 150px;
+}
+
+.failure_left {
+    padding: 50px;
+}
+
+.failure_right {
+    width: 50%;
+    padding: 0px 50px;
+}
+
+.failure_left img {
+    width: 100%;
+}
+
+
+
+.failure_heading {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.failure_UL{
+    list-style-type: '\2705';
+
+}
+
+.failure_UL  li {
+   
+    margin-left: -20px;
+}
+/* failure part styles */
+/* plans part styles */
+
+.plans{
+    text-align: center;
+}
+.Section_heading{
+    margin: auto;
+}
+
+.plans_div{
+    margin: 50px auto;
+    width: 1140px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.plan_element{
+            padding: 0px 70px;
+
+
+
+}
+.plan_headings{
+    line-height: 0px;
+}
+.plan_info{
+    line-height: 5px;
+}
+
+
+.lenier_bg{
+    width: 1140px;
+    height: 300px;
+    text-align: center;
+    margin: 0px auto;
+    background-image: url(./images/watch.png);
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.watch_heading{
+            color: white;
+            font-size: 40px;
+            text-align: left;
+
+}
+
+.faltu{
+
+
+    height: 300px;
+    text-align: left;
+    
+    background-image: url(./images/gradient1.png);
+}
+
+.gota_ghori{
+    width: 500px;
+    padding: 25px 35px;
+}
+footer{
+    background: black;
+    color: white;
+    margin-top: 100px;
+ 
+}
+.main_Footer{
+    width: 1140px;
+    margin: auto;
+display: flex;
+}
+.footer_left{
+    width: 50%;
+    padding: 50px 100px;
+}
+.footer_right{
+    width: 40%;
+    padding: 50px 100px;
+}
+.footer_right input{
+    width: 200px;
+    padding: 10px 25px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background: none;
+    color: white;
+}
+.footer_button{
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    background: rgb(78, 145, 172);
+    color: white;
+}
+.footer_span{
+    line-height: 25px;
+}
+.logo_pic img{
+margin: 15px 25px 0px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* plans part styles */
+
+
+
+
+
+
+
